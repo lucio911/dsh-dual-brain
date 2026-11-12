@@ -21,18 +21,17 @@
 
 ## 安装
 
-### 方式一：作为 npm 包安装
-
-```bash
-npm install -g @lucio911/dsh-dual-brain
-```
-
-### 方式二：直接放进插件目录
+### 方式一：从 GitHub 安装
 
 ```bash
 git clone https://github.com/lucio911/dsh-dual-brain.git
-# 拷到 DSH 插件目录
 cp -r dsh-dual-brain ~/.dsh/plugins/dsh-dual-brain
+```
+
+### 方式二：发布到 npm 后安装
+
+```bash
+npm install -g dsh-dual-brain
 ```
 
 ### 启用 patch
