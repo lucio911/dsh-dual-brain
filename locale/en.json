@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Dual-Brain orchestrator",
+    "description": "Orchestrates ChatGPT, Codex, and OpenAI reasoning models for thinking, planning, and review with DSH local executor."
+  }
+}

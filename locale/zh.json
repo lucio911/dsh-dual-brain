@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "双脑协同工作台 (Dual-Brain Orchestrator)",
+    "description": "接入 ChatGPT / Codex / OpenAI 顶尖模型负责思考、规划与复查，与 DSH 本地执行模型协同形成闭环工作流。"
+  }
+}

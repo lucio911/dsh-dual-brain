@@ -1,0 +1,3 @@
+- insert:
+    - id: dsh-dual-brain
+      name: '@local/dsh-dual-brain'
